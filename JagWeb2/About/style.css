@@ -47,3 +47,8 @@ body {
     font-weight: bolder;
 }
 /*  NAVBAR */
+
+body {
+    background: url("./img/NNR7ze.jpg");
+    background-size: cover;
+}
