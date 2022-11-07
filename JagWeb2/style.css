@@ -5,4 +5,6 @@
 body {
     margin: 0;
     padding: 0;
+    background: url("./Fiona_Hill.jpg");
+    background-size: cover;
 }
