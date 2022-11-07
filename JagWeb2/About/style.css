@@ -1,0 +1,49 @@
+/*  NAVBAR */
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 70px;
+    margin: .5rem;
+    filter: grayscale(70%);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url("./img/Fiona_Hill.jpg");
+    background-size: cover;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    color: wheat;
+}
+
+.nav-links ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-links li {
+    list-style: none;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+    display: block;
+    font-family: 'Kolker Brush', cursive;
+    font-size: 40px;
+    margin: 20px;
+    text-transform: uppercase; 
+    font-weight: bolder;
+}
+/*  NAVBAR */

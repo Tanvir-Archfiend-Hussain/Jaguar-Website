@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
 
+/*  NAVBAR */
 * {
     box-sizing: border-box;
 }
@@ -46,7 +47,7 @@ body {
     text-transform: uppercase; 
     font-weight: bolder;
 }
-
+/*  NAVBAR */
 
 
 
