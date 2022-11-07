@@ -8,3 +8,8 @@ body {
     background: url("./Fiona_Hill.jpg");
     background-size: cover;
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
